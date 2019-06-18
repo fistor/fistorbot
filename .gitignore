@@ -1,0 +1,6 @@
+/nbproject/
+/target/
+/Playlists/
+*.json
+*.txt
+nb*.xml
